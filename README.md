@@ -10,5 +10,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/random-quote-generator.git
+   git clone https://github.com/armanmazlan03/random-quote-generator.git
    cd random-quote-generator
